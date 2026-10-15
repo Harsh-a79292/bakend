@@ -1,0 +1,20 @@
+{
+  "name": "bakenddevloper",
+  "version": "1.0.0",
+  "description": "hyyyyy",
+  "keywords": [
+    "harsh",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "harsh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
